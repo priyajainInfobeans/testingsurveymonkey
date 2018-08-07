@@ -12,7 +12,6 @@ public class Strings {
 		}
 		
 		System.out.println("string is " + rev);
-
 	}
 
 	public void checkContain(String expected,String actual) {
