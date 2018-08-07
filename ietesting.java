@@ -12,6 +12,8 @@ public class ietesting
 		WebDriver driver = new InternetExplorerDriver(); 
 		driver.manage().window().maximize();
 	    driver.close();
+	    
+	    
 				}
 				       }
 

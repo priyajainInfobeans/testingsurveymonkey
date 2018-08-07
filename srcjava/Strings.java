@@ -8,10 +8,11 @@ public class Strings {
 		String rev = "";
 		len = a.length();
 		for (int j = len; j > 0; j--) {
-			rev = rev + a.charAt(j - 1);
+		rev = rev + a.charAt(j - 1);
 		}
+		
+		
 		System.out.println("string is " + rev);
-
 	}
 
 	public void checkContain(String expected,String actual) {
