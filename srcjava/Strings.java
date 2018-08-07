@@ -11,6 +11,7 @@ public class Strings {
 		rev = rev + a.charAt(j - 1);
 		}
 		
+		
 		System.out.println("string is " + rev);
 	}
 
