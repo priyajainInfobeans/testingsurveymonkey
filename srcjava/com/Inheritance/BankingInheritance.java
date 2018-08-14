@@ -4,7 +4,12 @@ public class BankingInheritance {
 
 	public void headerPrint() {
 		System.out.println("This is header");
-		
+
+	}
+
+	public void hellomotto() {
+		System.out.println("This is header");
+
 	}
 	
 	public void footer() {
